@@ -1,0 +1,9 @@
+﻿/*==============================================
+    Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: MAY 27 2022          
+   Workshop: 3 Part- 1     
+   I have done all the written part of reflection by myself. ==============================================*/
+ 
+In order to do this workshop, first of all I read the workshop pdf very carefully to get as many details about it as possible about the implementation of the concepts. I made a header file called CleanerBot.h where I declare all variables, necessary objects, and functions. Afterwards I made CleanerBot.cpp where I used all variables like declared mig1 as null print and then ig and var as 0. In further coding part by use of cout I made a structure to print out Battery status, Location, and state of activeness. Then I used ‘for if’ structure in the code where I can get an idea of battery level and location and that defines all other necessary data and repeated this in all case scenarios so at the end, I ended up with expected output for part 2 of this workshop. Moreover, I practiced the use of classes and its objects along with its properties and functions, constructors, and destructors, fetching elements of arrays in new ways by using loops and understanding the scope of the elements of the classes and objects. This leads me to creating successful loops and structure of the code for necessary output.

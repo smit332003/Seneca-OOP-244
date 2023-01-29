@@ -1,0 +1,11 @@
+﻿/*==============================================
+    Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: MAY 27 2022          
+   Workshop: 3 Part- 1     
+   I have done all the written part of reflection by myself. ==============================================*/
+ 
+While performing this workshop, I practiced a lot of concepts related to the most important topic of object-oriented programming, that is, classes and objects in C++. I initiated my work by revising the lecture notes that the professor provided along with those that I made while attending the lecture. After that I looked for some online resources for practicing the concepts for a strong base in these topics.
+ 
+I read the workshop pdf very carefully to get as many details about it as possible about the implementation of the concepts. In this workshop, I had to submit 4 files, namely Bar.cpp, Bar.h, Barchart.cpp and Barchart.h. In the .h files, I have declared the necessary objects and functions and then are defined in .cpp files. The data is then managed in the form of arrays. Accessing the arrays’ elements using loops and then harnessing them as per the requirements like using the ‘=’ repeatedly and then filling the empty spaces with ‘.’ to align them perfectly. In this workshop, I practiced the use of classes and its objects along with its properties and functions, constructors and destructors, fetching elements of arrays in new ways by using loops and understanding the scope of the elements of the classes and objects.

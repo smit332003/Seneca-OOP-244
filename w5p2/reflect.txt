@@ -1,0 +1,10 @@
+/*==============================================
+   Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: Jun 20 2022          
+   Workshop: 5 Part- 2     
+   I have done all the written part of reflection by myself. ==============================================*/
+
+
+In this workshop of part 2 we dealt with the certains errors but somehow we corrected them and got an output. So basically in the initial part of this workshop we declared an array that holds the name of the hero. After that we declared pointer of type power after that we declared an integer and after declaring all the variables we jumped onto the += power that help us to accept the a power reference and the integer reference.Boolian helper also taken a place in our code to get the correct output of the given workshop. Finally after going through all the required steps I ended up with the correct output of the workshop part 2.
