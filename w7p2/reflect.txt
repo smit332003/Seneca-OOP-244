@@ -1,0 +1,9 @@
+/*==============================================
+    Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: Jul 18 2022          
+   Workshop: 7 Part- 2     
+   I have done all the written part of reflection by myself. ==============================================*/
+ 
+In order to do this workshop, i went through all pdf of the given moduled call Memberparliament.cpp Memberparliament.h Minister.cpp Minister.h and main module of this lab and after going through all of the given pdfs ii started making functions for the given modules. Also I used variables called Dist, P_minister etc. and after doing all necessary work i ended up with the correct output of the given workshop.Moreover, I practiced the use of classes and its objects along with its properties and functions, constructors, and destructors, fetching elements of arrays in new ways by using loops and understanding the scope of the elements of the classes and objects. And i also learned in the modules Inherit a derived class from a base classAlso Utilizing custom input/output operators with these given classes and Access a shadowed member function that is defined in a base class. So this is how I ended up with all the necessary requirements with the correct output.

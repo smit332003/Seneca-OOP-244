@@ -1,0 +1,9 @@
+/*==============================================
+    Name: Smitkumar K PATEL
+   Student Number: 157308214
+   Email: spatel556@myseneca.ca  
+   Date: Aug 1 2022          
+   Workshop: 9 Part- 2     
+   I have done all the written part of reflection by myself. ==============================================*/
+ 
+In order to do this workshop, first of all I read the workshop pdf very carefully to get as many details about it as possible about the implementation of the concepts. I made a header file called Fullname.h and Name.h where I declare all variables, necessary objects, and functions. Afterwards I made Fullname.cpp where I used all variables like declared mig1 as null print and then ig and var as 0. In further coding part we declared pointer of type power after that we declared an integer and after declaring all the variables we jumped onto the += power that help us to accept the a power reference and the integer reference.Boolian helper also taken a place in our code to get the correct output of the given workshop. Finally after going through all the required steps I ended up with the correct output of the workshop part 1.
